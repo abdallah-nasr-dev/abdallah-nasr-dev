@@ -1,58 +1,73 @@
-Hey there, I'm Abdallah Nasr! 👋
-💻 Mid-Level Front-End Developer | React.js | Next.js | TypeScript
 
-I'm a Front-End Developer passionate about building modern, responsive, and high-performance web applications. I enjoy turning ideas and designs into intuitive user experiences using modern web technologies.
+# Hey there, I'm Abdallah Nasr! 👋
 
-I focus on writing clean, maintainable code, building reusable components, and creating web experiences that balance performance, accessibility, and usability. 🚀
+### 💻 Mid-Level Front-End Developer | React.js | Next.js | TypeScript
 
-🛠️ Tech Stack & Tools
+I'm a Front-End Developer passionate about building modern, responsive, and high-performance web applications. 🚀
 
-Frontend Development
+I enjoy transforming ideas and designs into interactive user experiences using modern web technologies. I focus on writing clean, maintainable code, building reusable components, and creating applications that deliver great user experiences.
 
-HTML5, CSS3, JavaScript (ES6+), TypeScript
-React.js, Next.js
-Responsive Web Design
+---
 
-State Management & Styling
+### 🛠️ Tech Stack & Tools
 
-Redux Toolkit
-Modern CSS and component-based styling
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,git,github,vscode" alt="Tech Stack" />
+</p>
 
-Development Tools
+---
 
-Git & GitHub
-REST APIs
-npm
-🌱 What I'm Focused On
-Building scalable and maintainable React applications.
-Developing modern web applications with Next.js and TypeScript.
-Improving web performance and user experience.
-Writing clean, reusable, and well-structured code.
-Continuously learning modern Front-End architecture and best practices.
-🚀 Featured Projects
+### 🌱 What I'm Focused On
 
-Here are some of the projects I've been working on:
+- 🚀 Building scalable and maintainable React applications.
+- ⚡ Developing modern web applications using Next.js and TypeScript.
+- 🎨 Creating responsive and user-friendly interfaces.
+- 🧩 Writing clean, reusable, and well-structured code.
+- 📈 Improving web performance and application architecture.
+- 📚 Continuously learning modern Front-End best practices.
 
-Project Name 1 — A brief description of the project, its main features, and the technologies used.
-Project Name 2 — A responsive web application built with modern Front-End technologies.
-Project Name 3 — A project showcasing my skills in React.js, TypeScript, or Next.js.
+---
 
-Replace these placeholders with your actual projects and live demos.
+### 🚀 Featured Projects
 
-⚡ A Little More About Me
-💡 I enjoy solving problems and turning ideas into functional web applications.
-🎨 I care about clean UI, responsive layouts, and great user experiences.
-📚 I'm always learning and improving my development skills.
-🤝 I'm open to collaborating on interesting web development projects.
-📫 Let's Connect!
-GitHub: @abdallah-nasr-dev
-LinkedIn: Add your LinkedIn profile
-Portfolio: Add your portfolio
-Email: Add your professional email
-💬 My Philosophy
-Great web experiences are built with thoughtful design, clean code, and continuous improvement.
+Here are some of my projects:
 
-Thanks for stopping by! Feel free to explore my repositories and connect with me. Let's build something great together! 🚀
+- 🔹 **[Project Name 1](YOUR_PROJECT_LINK)** — Brief description of the project and its key features.
+- 🔹 **[Project Name 2](YOUR_PROJECT_LINK)** — A responsive web application built with modern Front-End technologies.
+- 🔹 **[Project Name 3](YOUR_PROJECT_LINK)** — A project showcasing my skills in React.js, TypeScript, or Next.js.
+
+> Replace these examples with your actual projects and repository links.
+
+---
+
+### ⚡ A Little More About Me
+
+- 💡 I enjoy solving problems and building practical web solutions.
+- 🎯 I care about code quality, performance, and user experience.
+- 🤝 I'm open to collaboration on interesting web development projects.
+- 🌱 Always learning, building, and improving.
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/abdallah-nasr-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+### 💬 My Philosophy
+
+> Great web experiences are built with thoughtful design, clean code, and continuous improvement.
+
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me. Let's build something great together! 🚀
+
 
 <!--
 This is the special README repository for the
