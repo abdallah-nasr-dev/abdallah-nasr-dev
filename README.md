@@ -8,8 +8,16 @@ I'm a Front-End Developer passionate about building modern, responsive, and high
 I enjoy transforming ideas and designs into interactive user experiences using modern web technologies. I focus on writing clean, maintainable code, building reusable components, and creating applications that deliver great user experiences.
 
 ---
+## 💼 Experience
 
+### Frontend Developer | Evolvice GmbH
+**Dec 2024 – Sep 2026** · Cairo, Egypt · Hybrid
+
+- Engineered scalable, high-performance web applications using **React.js, Next.js, and TypeScript**, leveraging reusable components, Server-Side Rendering (SSR), and Static Site Generation (SSG).
+- Optimized **Core Web Vitals**, page load times, rendering performance, and bundle sizes through code splitting, lazy loading, and efficient state management.
+- Improved frontend architecture, SEO, and responsive UI performance while integrating REST APIs and leveraging AI-assisted development tools to enhance development efficiency and code quality.
 ### 🛠️ Tech Stack & Tools
+---
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,git,github,vscode" alt="Tech Stack" />
