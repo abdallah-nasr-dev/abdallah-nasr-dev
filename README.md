@@ -36,14 +36,6 @@ I enjoy transforming ideas and designs into interactive user experiences using m
 
 ---
 
-### 🚀 Featured Projects
-
-Here are some of my projects:
-
-- 🔹 **[Project Name 1](YOUR_PROJECT_LINK)** — Brief description of the project and its key features.
-- 🔹 **[Project Name 2](YOUR_PROJECT_LINK)** — A responsive web application built with modern Front-End technologies.
-- 🔹 **[Project Name 3](YOUR_PROJECT_LINK)** — A project showcasing my skills in React.js, TypeScript, or Next.js.
-
 > Replace these examples with your actual projects and repository links.
 
 ---
