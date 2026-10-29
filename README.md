@@ -55,7 +55,7 @@ I enjoy transforming ideas and designs into interactive user experiences using m
   <a href="https://github.com/abdallah-nasr-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="www.linkedin.com/in/abdallah-nasser-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
